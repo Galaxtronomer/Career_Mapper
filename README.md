@@ -33,4 +33,7 @@ python career_mapper_autosave.py
 ```
 
 
-![Career Mapper Screenshot](career_mapper.png)
+<img src="career_mapper.png" alt="Career Mapper Screenshot 1" width="400"/>
+
+<img src="my_career_map.png" alt="Career Mapper Screenshot 2" width="400"/>
+
