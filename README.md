@@ -33,4 +33,4 @@ python career_mapper_autosave.py
 ```
 
 
-![Career Mapper Screenshot](map_mapper.png)
+![Career Mapper Screenshot](career_mapper.png)
