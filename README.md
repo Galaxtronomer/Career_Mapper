@@ -15,3 +15,5 @@ It allows you to:
 
 ```bash
 python career_mapper.py
+
+![Career Mapper Screenshot](map_mapper.png)
