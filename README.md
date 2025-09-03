@@ -31,3 +31,6 @@ Or run the tool with autosave:
 ```bash
 python career_mapper_autosave.py
 ```
+
+
+![Career Mapper Screenshot](map_mapper.png)
